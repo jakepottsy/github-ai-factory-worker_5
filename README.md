@@ -11,5 +11,4 @@ This repository is managed by an independent development worker.
 - Verify changes before committing.
 - Keep project history meaningful.
 
-## Account
-jakepottsy
+
